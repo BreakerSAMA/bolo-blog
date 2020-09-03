@@ -10,8 +10,8 @@
 
 ### 最新
 
-* [测试图片](http://ajax.skter.cn/articles/2020/09/03/1599063245653.html)
-* [阿贾克斯的 Bolo 博客系统已部署成功。](http://ajax.skter.cn/hello-bolo)
+* [测试图片](http://blog.skter.cn/articles/2020/09/03/1599063245653.html)
+* [阿贾克斯的 Bolo 博客系统已部署成功。](http://blog.skter.cn/hello-bolo)
 
 
 
