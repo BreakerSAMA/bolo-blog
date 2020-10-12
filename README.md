@@ -1,4 +1,4 @@
-<p align="center"><img alt="阿贾克斯 的个人博客" src="https://pic.stackoverflow.wiki/uploadImages/114/246/231/87/2020/06/06/16/41/3e4a3ce8-8882-4258-9860-a337bf859605.png"></p><h2 align="center">
+<p align="center"><img alt="阿贾克斯 的个人博客" src="http://img.skter.cn:999/uploadImages/10/255/0/2/2020/09/02/16/29/b196a1b0-a570-410d-bbe1-e67015e9d0a6.jpg"></p><h2 align="center">
 阿贾克斯 的个人博客
 </h2>
 
